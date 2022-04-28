@@ -10,5 +10,13 @@
   ],
   "profile": {
     "name": "yanglilizhang"
+  },
+  "login": {
+    "code": "200",
+    "msg": "ok",
+    "data": {
+	    "name": "zhanghaha",
+	    "age": 20	
+	  }
   }
 }
