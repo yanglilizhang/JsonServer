@@ -8,12 +8,12 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "Login": {
+  "login": {
     "code": "200",
     "Msg": "ok",
     "Data": {
-	    "name:"zhanghaha",
-	    "age":20	
+	    "name": "zhanghaha",
+	    "age": 20	
 	    }
   }
 }
