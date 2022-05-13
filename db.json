@@ -1,12 +1,29 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "yanglilizhang"
@@ -15,8 +32,44 @@
     "code": "200",
     "msg": "ok",
     "data": {
-	    "name": "zhanghaha",
-	    "age": 20	
-	  }
+      "name": "zhanghaha",
+      "age": 20
+    }
+  },
+  "scan": {
+    "result_num": 2,
+    "result": [
+      {
+        "location": {
+          "left": 127,
+          "top": 70,
+          "width": 103,
+          "height": 101
+        },
+        "dishes": [
+          {
+            "score": 0.47976872324944,
+            "brief": "{\"dishName\":\"白菜\",\"id\":1}",
+            "cont_sign": "475124309,1080176642"
+          }
+        ]
+      },
+      {
+        "location": {
+          "left": 312,
+          "top": 163,
+          "width": 78,
+          "height": 79
+        },
+        "dishes": [
+          {
+            "score": 0.013810452073812,
+            "brief": "{\"dishName\":\"豆腐\",\"id\":2}",
+            "cont_sign": "475124309,1080176642"
+          }
+        ]
+      }
+    ],
+    "log_id": 1837888624
   }
 }
