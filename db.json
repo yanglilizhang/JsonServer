@@ -49,7 +49,7 @@
         "dishes": [
           {
             "score": 0.47976872324944,
-            "brief": "{\"dishName\":\"白菜\",\"id\":1}",
+            "brief": "{\"id\":1,\"dishName\":\"baicai\",\"dishImage\":\"http://www.baidu.com\",\"dishPrice\":0.01}",
             "cont_sign": "475124309,1080176642"
           }
         ]
@@ -64,7 +64,7 @@
         "dishes": [
           {
             "score": 0.013810452073812,
-            "brief": "{\"dishName\":\"豆腐\",\"id\":2}",
+            "brief": "{\"id\":2,\"dishName\":\"doufu\",\"dishImage\":\"http://www.baidu.com\",\"dishPrice\":0.01}",
             "cont_sign": "475124309,1080176642"
           }
         ]
