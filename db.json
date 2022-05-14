@@ -51,6 +51,11 @@
             "score": 0.47976872324944,
             "brief": "{\"id\":1,\"dishName\":\"baicai\",\"dishImage\":\"http://www.baidu.com\",\"dishPrice\":0.01}",
             "cont_sign": "475124309,1080176642"
+          },
+          {
+            "score": 0.37976872324944,
+            "brief": "{\"id\":3,\"dishName\":\"luobo\",\"dishImage\":\"http://www.baidu.com\",\"dishPrice\":0.01}",
+            "cont_sign": "475124309,1080176642"
           }
         ]
       },
